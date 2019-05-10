@@ -6,7 +6,7 @@ class KubectlSwitch < Formula
   sha256 "854f953c96418ea516a6264d8408e59c814c54615b2a40ea25f32c05003ab314"
   head "https://github.com/yulibaozi/kubectl-switch.git"
 
-  depends_on "kubernetes-cli"
+  # depends_on "kubernetes-cli"
 
   def install
     bin.install "kubectl-switch"
