@@ -1,5 +1,3 @@
 # homebrew-tap
 
-
-:q!
-
+kubectl-switch brew tap
