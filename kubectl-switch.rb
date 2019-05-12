@@ -3,7 +3,7 @@ class KubectlSwitch < Formula
   homepage "https://github.com/yulibaozi/kubectl-switch"
   url "https://github.com/yulibaozi/kubectl-switch/releases/download/v1.0.1/kubectl-switch_1.0.1_darwin_amd64.tar.gz"
   version "1.0.0"
-  sha256 "854f953c96418ea516a6264d8408e59c814c54615b2a40ea25f32c05003ab314"
+  sha256 "d37b69e2c3c3139fa0f965e9798ef88196cbcf0cf33f6c7bd64e097d4498e06f"
   head "https://github.com/yulibaozi/kubectl-switch.git"
 
   # depends_on "kubernetes-cli"
